@@ -1,0 +1,7 @@
+openai-whisper
+groq
+gTTS
+gradio
+transformers
+torch  # required for Whisper and Hugging Face Transformers
+pydub  # required for handling audio playback with gTTS output
